@@ -23,3 +23,6 @@ Jika Anda mempertimbangkan untuk mengalihkan bisnis e-commerce Anda ke cloud, be
   Mereka adalah kategori inti dari komputasi awan. Model-model ini adalah cara untuk menggambarkan bagaimana Anda dapat menggunakan cloud untuk perusahaan Anda, yaitu hosting, menyimpan, mengelola, dan memproses data online.
   Di sini Anda dapat melihat ringkasan fitur utama dari setiap kategori, di mana On-Premise adalah perangkat lunak yang diinstal di gedung yang sama dengan bisnis Anda.
 
+Arsitektur Platform SAAS (Perangkat Lunak sebagai Layanan)
+  Perangkat lunak sebagai layanan adalah model lisensi dan pengiriman perangkat lunak di mana perangkat lunak dilisensikan berdasarkan berlangganan dan di-host secara terpusat. Pengguna dapat mengaksesnya dengan bantuan browser web.
+  
