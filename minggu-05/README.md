@@ -1,5 +1,5 @@
 # Materi Pembahasan
-*Artikel tentang BPaaS dari IBM.
+* Artikel tentang BPaaS dari IBM.
 
 Setiap proses bisnis (misalnya, penggajian, pencetakan, e-niaga) dikirim sebagai layanan melalui Internet dan dapat diakses oleh satu atau beberapa antarmuka yang diaktifkan web (PC, perangkat pintar, dan telepon) dapat dianggap sebagai Proses Bisnis sebagai Layanan (BPaaS) . Layanan iklan seperti Google Adsense, IBM Blueworks Live untuk manajemen proses bisnis adalah beberapa dari beberapa layanan yang tersedia untuk umum, sedangkan ada sejumlah layanan lain yang saat ini departemen TI berikan kepada penggunanya di dalam firewall atau ke mitra tepercaya.
 
